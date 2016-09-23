@@ -13,7 +13,7 @@ Felizmente, existe uma outra alternativa muito boa de aplicativo, tão fácil de
 
 Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o WhatsApp mudou seus Termos de Privacidade e enviou uma mensagem para seus usuários. Muitos simplesmente clicaram "Concordo" sem pensar duas vezes, como nós, infelizmente, têm sido [treinados](http://darkpatterns.org/) para fazê-lo. Mas essa mudança foi grande e, na nossa opinião, perigosa. 
 
-<img src="/images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
+<img src="https://hackforprivacy.org/images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 **WhatsApp [diz](https://www.whatsapp.com/faq/en/general/28030011) que você pode escolher não compartilhar a sua informação, caso você já seja um usuário do aplicativo. Mas é tudo muito nebuloso.**
 
@@ -34,7 +34,7 @@ Será que não existe uma opção melhor?
 
 Signal Private Messenger é uma aplicação de código aberto para mensagens seguras, desenvolvido pela [Open Whisper Systems](https://en.wikipedia.org/wiki/Open_Whisper_Systems), que criou excelentes [protocolos](https://whispersystems.org/blog/advanced-ratcheting/), que outros aplicativos mais populares de mensagens recentemente adotaram para encriptar suas conversas. Seu fundador, Moxie Marlinspike, é um pesquisador de segurança muito respeitado e um defensor de longa data de [comunicação privada de forma simples](https://vimeo.com/124887048).
 
-<img src="/images/signal.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
+<img src="https://hackforprivacy.org/images/signal.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 ### Você não é um produto
 
@@ -67,7 +67,7 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 <div class="hr"></div>
 
 ### Pare com isso e encontre uma razão para mudar do WhatsApp para Signal
-<img src="/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="https://hackforprivacy.org/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
  * [Compartilhe "Pare com isso e encontre uma razão para mudar do WhatsApp para Signal" on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
  * Ou baixe o [vídeo](/videos/whatsapp-signal-reasons.mp4)
@@ -75,14 +75,14 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 <div class="hr"></div>
 
 ### Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal
-<img src="/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="https://hackforprivacy.org/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
  * [Share "Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal" on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
 
 <div class="hr"></div>
 
 ### Privacidade? O que estamos fazendo não precisa de privacidade.
-<img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="https://hackforprivacy.org/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
 *Privacidade? O que estamos fazendo não precisa de privacidade.* Errado. Você tem até esse domingo (25 de  setembro) para trocar suas configurações do WhatsApp e trocar para o Signal...
 
