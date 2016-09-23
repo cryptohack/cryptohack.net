@@ -3,7 +3,7 @@
 	<main role="main">
 		<article itemscope itemtype="http://schema.org/BlogPosting">
       <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
-    {{ if or (eq .Type "post") (eq .Type "es") }}
+    {{ if or (eq .Type "post") (eq .Type "es") (eq .Type "pt")}}
       <span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></span>
       {{ partial "share.html" .}}
     {{ end }}
