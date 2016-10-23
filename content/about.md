@@ -32,9 +32,9 @@ Why am I here? It was the [Australian metadata retention law](http://www.smh.com
 
 ## Robin Doherty
 <img src="/images/cam.png"  class="profile-pic" />
-Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
+Robin is a software developer and co-founder of Hack for Privacy. After observing the disregard for users’ security prevalent throughout the software industry, and the lack of respect for privacy across society as a whole, his despair was turned to action by Snowden’s revelations of 2013. He believes that the software industry is culpable in the demise of privacy, most people are in denial about their own role in mass surveillance, and now is the time to fix our attitudes. He attempts to demystify and promote privacy by facilitating cryptoparties, making noise on the internet, and organising Hack for Privacy.
 
-</br>
+<br/>
 # Where did Hack for Privacy start?
 
 Hack for Privacy (originally called Cryptohack) started in Melbourne at the end of 2015 after Robin and Andrew had been delivering privacy workshops to community organisations and the general public as part of the worldwide privacy movement. Though our work, we realised there were a big gaps in the usability of privacy tools.
