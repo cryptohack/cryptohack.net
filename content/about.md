@@ -1,6 +1,6 @@
 +++
 date = "2016-04-27T20:17:00+10:00"
-draft = true
+draft = false
 title = "About Hack for Privacy"
 +++
 <style>
