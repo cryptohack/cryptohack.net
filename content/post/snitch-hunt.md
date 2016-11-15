@@ -1,5 +1,5 @@
 +++
-author = "Cryptohack"
+author = "Hack for Privacy"
 date = "2016-11-16T10:00:22+11:00"
 draft = false
 title = "Join us to play Snitch Hunt on 10th December"
