@@ -1,7 +1,6 @@
 baseURL: http://newh4pwebsite.s3-website-ap-southeast-2.amazonaws.com/
 relativeURLs: true
 canonifyURLs: true
-uglyURLs: true
 languageCode: en-us
 title: Hack for Privacy
 theme: hugo_theme_beg
