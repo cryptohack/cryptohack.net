@@ -29,7 +29,7 @@ Andrew is a co-founder of Hack for Privacy, activist and self-taught software de
 <img src="/images/pam.png"  class="profile-pic" />
 Why am I here? It was the [Australian metadata retention law](http://www.smh.com.au/technology/technology-news/explainer-what-you-have-to-fear-or-not-from-metadata-laws-and-phone-bugs-20151023-gkgl5k.html) that did it for me. Having ISPs storing data from our communications to then give free access to it to a large amount of people is outrageous. Privacy has many angles though: I, for example, struggle a lot balancing how much privacy I am willing to give up in order to use Google’s tools. An, as techies, that's our biggest challenge. **We need to create incredible tools that also protect people’s privacy,** build software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it. We haven't been doing that and that needs to change.
 
-## Robin Doherty
+### Robin Doherty
 <img src="/images/robin.jpg"  class="profile-pic" />
 Robin is a software developer and co-founder of Hack for Privacy. After observing the disregard for users’ security prevalent throughout the software industry, and the lack of respect for privacy across society as a whole, his despair was turned to action by Snowden’s revelations of 2013. He believes that the software industry is culpable in the demise of privacy, most people are in denial about their own role in mass surveillance, and now is the time to fix our attitudes. He attempts to demystify and promote privacy by facilitating cryptoparties, making noise on the internet, and organising Hack for Privacy.
 
