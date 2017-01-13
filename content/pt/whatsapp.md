@@ -19,7 +19,6 @@ Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o Whats
 
 * Por padrão, você vai estar compartilhando sua informação - é necessário dar [opt out](https://www.whatsapp.com/faq/general/26000016) **até o fim dessa semana**, no dia 25 de setembro.
 
-
 * Novos usuários não terão essa opção - você quer mesmo que seus amigos usem um serviço que não oferece o controle de suas próprias informações?
 
 * Ao longo do texto dos Termos de Uso o WhatsApp usa a frase "para melhorar seus anúncios no Facebook e experiências de produto." Mesmo se você optar por não deixá-lo usar suas informações, seus dados ainda serão coletados e salvos, e podem ser usados [de outras formas](https://www.whatsapp.com/faq/en/general/28030011).
