@@ -11,9 +11,11 @@
     {{ end }}
 
     <ul class="p-articles">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") 5 }}
-      {{ range $paginator.Pages }}
-      <li>{{ .Render "li" }}</li>
+      {{ with .Section }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" {{ . | urlize }}) 5 }}
+        {{ range $paginator.Pages }}
+        <li>{{ .Render "li" }}</li>
+        {{ end }}
       {{ end }}
     </ul>
 
