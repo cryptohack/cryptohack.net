@@ -11,6 +11,11 @@ title = "About Hack for Privacy"
 }
 </style>
 
+<div class="row" style="text-align: center;">
+  <div class="col-md-12">
+    <a href="https://hackforprivacy.org"><img src="/images/cryptofist.png" class="logo"/></a>
+  </div>
+</div>
 
 Hack for Privacy is a network of technologists (designers, testers, analysts, developers, sysadmins, security specialists and writers) who care deeply enough about digital privacy to stand up and do something.
 
@@ -31,8 +36,10 @@ Why am I here? It was the [Australian metadata retention law](http://www.smh.com
 
 
 ## Robin Doherty
-<img src="/images/cam.png"  class="profile-pic" />
-Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
+<img src="/images/robin.jpeg"  class="profile-pic" />
+Robin is a software developer and co-founder of [Hack for Privacy](https://hackforprivacy.org). After observing the disregard for users’ security prevalent throughout the software industry, and the lack of respect for privacy across society as a whole, his despair was turned to action by Snowden’s revelations of 2013. He believes that the software industry is culpable in the demise of privacy, most people are in denial about their own role in mass surveillance, and now is the time to fix our attitudes. He attempts to demystify and promote privacy by facilitating cryptoparties, making noise on the internet, and organising Hack for Privacy.
+
+Website: [robindoherty.com](https://robindoherty.com)
 
 </br>
 # Where did Hack for Privacy start?

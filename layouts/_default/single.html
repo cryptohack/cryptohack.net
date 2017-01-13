@@ -1,17 +1,30 @@
-{{ partial "header.html" . }}
+{{ define "title" }}{{ .Title }} - {{ end }}
 
-	<main role="main">
-		<article itemscope itemtype="http://schema.org/BlogPosting">
-      <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
-    {{ if or (eq .Type "post") (eq .Type "es") (eq .Type "pt")}}
-      <span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></span>
-      {{ partial "share.html" .}}
-    {{ end }}
-      <section itemprop="entry-text">
-        {{ .Content }}
-      </section>
-      {{ partial "share.html" .}}
-		</article>
-	</main>
+{{ define "meta" }}
+{{ partial "single_meta.html" . }}
+{{ partial "single_json_ld.html" . }}
+{{ end }}
 
-{{ partial "footer.html" . }}
+{{ define "main" }}
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="{{ .Site.BaseURL }}"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        {{ with .Section }}
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/" itemprop="url"><span itemprop="title">{{ . }}</span></a></li>
+        {{ end }}
+        <li class="active">{{ .Title }}</li>
+      </ol>
+    </nav>
+    {{ .Render "summary" }}
+
+    {{ template "_internal/disqus.html" . }}
+  </div>
+
+  <div class="col-md-4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ end }}
