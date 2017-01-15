@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
-HUGO_VERSION=0.16
-DOWNLOAD_FILE_NAME=hugo_${HUGO_VERSION}_linux-64bit.tgz
+HUGO_VERSION=0.18.1
+DOWNLOAD_FILE_NAME=hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 S3_BUCKET=hackforprivacy.org
 
 wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${DOWNLOAD_FILE_NAME}
