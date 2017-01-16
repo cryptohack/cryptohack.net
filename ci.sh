@@ -6,7 +6,7 @@ S3_BUCKET=hackforprivacy.org
 
 wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${DOWNLOAD_FILE_NAME}
 
-tar xvzf ${DOWNLOAD_FILE_NAME}
+tar xvzf ${DOWNLOAD_FILE_NAME} --strip 1
 
 ./${EXECUTABLE_NAME} -v --uglyURLs
 
