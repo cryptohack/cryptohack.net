@@ -33,6 +33,13 @@ a.btn:hover {
 .header-logo {
   border-radius: 50%;
 }
+
+.responsive-centered-image {
+  max-width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
 /* END: H4P Customisation */
 
 html {
