@@ -1,0 +1,69 @@
+
+<aside class="l-sidebar">
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">LATESTS</div>
+    </div>
+
+    <div class="list-group">
+      {{ range first 10 (where .Site.Pages "Type" "post") }}
+        <a href="{{ .Permalink }}" class="list-group-item">{{ .Title }}</a>
+      {{ end }}
+    </div>
+  </section>
+<!--
+=======
+
+>>>>>>> New Template
+  {{ range $key, $value := .Site.Taxonomies }}
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">{{ $key | singularize | upper }}</div>
+    </div>
+    <div class="list-group">
+      {{ range first 10 $value.ByCount }}
+      <a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}" class="list-group-item">{{ .Name }}</a>
+      {{ end }}
+    </div>
+  </section>
+<<<<<<< 008e86203b9d36cee4aec183975bd1b3fadec022
+  {{ end }} -->
+
+    <div class="row join-us">
+      <div class="col-md-8 col-md-offset-2">
+        <a href="https://cryptohack.herokuapp.com/" class="btn btn-success btn-block" target="_blank">Join Us</a>
+      </div>
+    </div>
+
+  <section>
+    <div class="row">
+      <div class="col-xs-3 text-center">
+        <a href="https://twitter.com/hackforprivacy" target="_blank">
+          <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="col-xs-2 text-center">
+        <a href="https://www.meetup.com/hack-for-privacy" target="_blank">
+          <i class="fa fa-meetup fa-2x" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="col-xs-2 text-center">
+        <a href="{{ .Permalink }}index.xml" target="_blank">
+          <i class="fa fa-rss fa-2x" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="col-xs-2 text-center">
+        <a href="https://hackforprivacy.slack.com/" target="_blank">
+          <i class="fa fa-slack fa-2x" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="col-xs-3 text-center">
+        <a href="https://www.facebook.com/hackforprivacy" target="_blank">
+          <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+</aside>

@@ -16,7 +16,7 @@ I believe in the power of technology to make things better. That’s why I becam
 
 So, what would it take?
 
-<img src="/images/us-census-bureau.jpg" />
+<img src="/images/us-census-bureau.jpg" class="responsive-centered-image" />
 <cite>Photo credit: <a href="https://www.flickr.com/photos/uscensusbureau/7024456499/in/photostream/">US Census Bureau on Flickr</a></cite>
 
 ## Legislation

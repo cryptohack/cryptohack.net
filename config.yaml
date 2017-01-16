@@ -1,10 +1,9 @@
-baseURL: https://hackforprivacy.org
+baseURL: http://newh4pwebsite.s3-website-ap-southeast-2.amazonaws.com/
 relativeURLs: true
 canonifyURLs: true
-uglyURLs: true
 languageCode: en-us
 title: Hack for Privacy
-theme: hugo-zen
+theme: hugo_theme_beg
 
 params:
   logo: /images/cryptofist.png
@@ -13,4 +12,16 @@ params:
   meetup: https://www.meetup.com/hack-for-privacy/
   slackjoin: https://cryptohack.herokuapp.com
   slack: https://hackforprivacy.slack.com
-  rss: https://hackforprivacy.org/index.xml
+  rss: http://newh4pwebsite.s3-website-ap-southeast-2.amazonaws.com/index.xml
+
+menu:
+  main:
+      - Name: "About Us"
+        Pre: "<i class='fa fa-heart'></i>"
+        Weight: -110
+        Identifier: "about"
+        URL: "/about.html"
+      - Name: "Contribute"
+        Pre: "<i class='fa fa-road'></i>"
+        Weight: -100
+        URL: "/contribute.html"

@@ -11,24 +11,23 @@ Felizmente, existe uma outra alternativa muito boa de aplicativo, tão fácil de
 
 ## Então, o que mudou em termos de privacidade? ?
 
-Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o WhatsApp mudou seus Termos de Privacidade e enviou uma mensagem para seus usuários. Muitos simplesmente clicaram "Concordo" sem pensar duas vezes, como nós, infelizmente, têm sido [treinados](http://darkpatterns.org/) para fazê-lo. Mas essa mudança foi grande e, na nossa opinião, perigosa. 
+Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o WhatsApp mudou seus Termos de Privacidade e enviou uma mensagem para seus usuários. Muitos simplesmente clicaram "Concordo" sem pensar duas vezes, como nós, infelizmente, têm sido [treinados](http://darkpatterns.org/) para fazê-lo. Mas essa mudança foi grande e, na nossa opinião, perigosa.
 
 <img src="/images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 **WhatsApp [diz](https://www.whatsapp.com/faq/en/general/28030011) que você pode escolher não compartilhar a sua informação, caso você já seja um usuário do aplicativo. Mas é tudo muito nebuloso.**
 
-* Por padrão, você vai estar compartilhando sua informação - é necessário dar [opt out](https://www.whatsapp.com/faq/general/26000016) **até o fim dessa semana**, no dia 25 de setembro. 
+* Por padrão, você vai estar compartilhando sua informação - é necessário dar [opt out](https://www.whatsapp.com/faq/general/26000016) **até o fim dessa semana**, no dia 25 de setembro.
 
-
-* Novos usuários não terão essa opção - você quer mesmo que seus amigos usem um serviço que não oferece o controle de suas próprias informações? 
+* Novos usuários não terão essa opção - você quer mesmo que seus amigos usem um serviço que não oferece o controle de suas próprias informações?
 
 * Ao longo do texto dos Termos de Uso o WhatsApp usa a frase "para melhorar seus anúncios no Facebook e experiências de produto." Mesmo se você optar por não deixá-lo usar suas informações, seus dados ainda serão coletados e salvos, e podem ser usados [de outras formas](https://www.whatsapp.com/faq/en/general/28030011).
 
-Compartilhar a sua informação pessoal por padrão, forçar uma data limite para que você opte por não fazê-lo e negar aos novos usuários essa possibilidade não combina com a promessa inicial que dizia que o "respeito à sua privacidade está em nosso DNA". O que parece é que o WhatsApp foi corrompido. 
+Compartilhar a sua informação pessoal por padrão, forçar uma data limite para que você opte por não fazê-lo e negar aos novos usuários essa possibilidade não combina com a promessa inicial que dizia que o "respeito à sua privacidade está em nosso DNA". O que parece é que o WhatsApp foi corrompido.
 
-[Privacy Zuckering](http://darkpatterns.org/facebook-com-august-2010/) é uma frase que foi inventada quando o Facebook introduziu suas confusas configurações de privacidade, garantindo que eles iriam se beneficiar das nossas dificuldades. Agora eles Zuckered o Whatsapp também. 
+[Privacy Zuckering](http://darkpatterns.org/facebook-com-august-2010/) é uma frase que foi inventada quando o Facebook introduziu suas confusas configurações de privacidade, garantindo que eles iriam se beneficiar das nossas dificuldades. Agora eles Zuckered o Whatsapp também.
 
-Será que não existe uma opção melhor? 
+Será que não existe uma opção melhor?
 
 ## Introduzindo o Signal
 
@@ -56,7 +55,7 @@ E não esqueça [com quem](https://en.wikipedia.org/wiki/PRISM_(surveillance_pro
 
 ## Se movimentando
 
-Dada a mudança de valores do WhatsApp, é hora de mudar e iniciar a usar o Signal (para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ou [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)), um aplicativo que permite você se comunicar privadamente com seus amigos e familiares, sem nenhum anunciante e empresas espionando suas informações. 
+Dada a mudança de valores do WhatsApp, é hora de mudar e iniciar a usar o Signal (para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ou [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)), um aplicativo que permite você se comunicar privadamente com seus amigos e familiares, sem nenhum anunciante e empresas espionando suas informações.
 
 <a name="posters"></a>
 
@@ -75,7 +74,7 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 <div class="hr"></div>
 
 ### Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal
-<img src="/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="/images/pt/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
  * [Share "Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal" on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
 
@@ -106,5 +105,5 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://hackforprivacy.org/post/whatsapp.html" />
 <meta property="og:image" content="http://hackforprivacy.org/images/whatsapp.png" />
-<meta property="og:description" content="WhatsApp will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and more, with their parent company -- Facebook." /> 
+<meta property="og:description" content="WhatsApp will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and more, with their parent company -- Facebook." />
 <meta property="og:site_name" content="Hack for Privacy" />
