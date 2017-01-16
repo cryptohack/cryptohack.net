@@ -1,4 +1,4 @@
-baseURL: http://newh4pwebsite.s3-website-ap-southeast-2.amazonaws.com/
+baseURL: https://hackforprivacy.org/
 relativeURLs: true
 canonifyURLs: true
 languageCode: en-us
@@ -12,7 +12,7 @@ params:
   meetup: https://www.meetup.com/hack-for-privacy/
   slackjoin: https://cryptohack.herokuapp.com
   slack: https://hackforprivacy.slack.com
-  rss: http://newh4pwebsite.s3-website-ap-southeast-2.amazonaws.com/index.xml
+  rss: https://hackforprivacy.org/index.xml
 
 menu:
   main:
