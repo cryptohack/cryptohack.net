@@ -1,8 +1,8 @@
-# cryptohack.net
+# hackforprivacy.org
 
 [![Build Status](https://snap-ci.com/cryptohack/cryptohack.net/branch/master/build_image)](https://github.com/hackforprivacy/cryptohack.net/branch/master)
 
-The website of the Hack for Privacy Network.
+The website at [hackforprivacy.org](https://hackforprivacy.org).
 
 Install dependencies:
 
