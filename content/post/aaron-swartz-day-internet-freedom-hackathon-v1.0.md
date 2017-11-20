@@ -1,22 +1,8 @@
 +++
-date = "2017-11-20T10:53:00+10:00"
+date = "2017-11-20T11:10:00+10:00"
 draft = false
 title = "The Aaron Swartz Day Internet Freedom Hackathon v1.0"
 +++
-<style>
-img {
-    max-width:500px;
-    max-height:300px;
-    margin-right:10px;
-    margin-bottom:10px;
-    display: inline-block;
-}
-
-.space {
-  clear: left;
-}
-</style>
-
 This weekend, ThoughtWorks, HFP, and the Australian Privacy Foundation hosted the first ever [Aaron Swartz Day Internet Freedom Hackathon](https://aaronswartzday.hackforprivacy.org) at the ThoughtWorks Brisbane office. 
 
 Despite coinciding with the Global StartUp Weekend, 16 attendants persevered and presented on Sunday.
@@ -39,14 +25,14 @@ The attendants had very good feedback about the hackathon. They were happy that 
 
 Here are some photos from the event:
 
+<div style="text-align: center">
 <img src="/images/hackathon/1.jpg" />
 <img src="/images/hackathon/2.jpg" />
 <img src="/images/hackathon/3.jpg" />
 <img src="/images/hackathon/4.jpg" />
 <img src="/images/hackathon/5.jpg" />
-<img src="/images/hackathon/6.jpg" />
 <img src="/images/hackathon/7.jpg" />
-
+</div>
 
 People that helped make this possible include:
 
@@ -61,3 +47,17 @@ Read more at [aaronswartzday.org](https://www.aaronswartzday.org) and [aaronswar
 
 *Posted by [Clayton](https://twitter.com/cnyakana) and Eru*
 
+
+<style>
+img {
+    max-width:500px;
+    max-height:282px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display: inline-block;
+}
+
+.space {
+  clear: left;
+}
+</style>
