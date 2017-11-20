@@ -1,18 +1,12 @@
 # hackforprivacy.org
 
+[![Build Status](https://api.travis-ci.org/hackforprivacy/hackforprivacy.net.svg?branch=master)](https://travis-ci.org/hackforprivacy/hackforprivacy.net)
+
 The website at [hackforprivacy.org](https://hackforprivacy.org).
 
-Install dependencies:
+Run the site locally in watch mode:
 
-    brew install hugo
-
-Checkout the code:
-
-    git clone --recursive git@github.com:hackforprivacy/cryptohack.net.git
-
-Build the site in watch mode:
-
-    hugo server --buildDrafts --watch
+    auto/start
 
 
 
