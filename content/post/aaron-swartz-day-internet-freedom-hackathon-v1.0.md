@@ -34,7 +34,7 @@ Here are some photos from the event:
 <img src="/images/hackathon/7.jpg" />
 </div>
 
-People that helped make this possible include:
+Special massive thank you to all the people that helped make this possible, including:
 
  - Our two splendid speakers, Liam Pomfret and Dr Matthew Rimmer.
  - Our four excellent judges, Monique Mann, Justin Clacherty, Glen Arrowsmith, and Katrina Donaghy.
