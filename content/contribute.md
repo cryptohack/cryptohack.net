@@ -13,7 +13,7 @@ Below are some open source projects that we care about. Some of them could use *
 # Pixelated
 [Website](https://pixelated-project.org/) | [Source](https://github.com/pixelated)
 
-Easy to use, encrypted email with decentralised hosting. For more information about Pixelated and how to set up your development environment, please check out the [Cryptohacker's Guide to Pixelated](/pixelated.html).
+Easy to use, encrypted email with decentralised hosting. For more information about Pixelated and how to set up your development environment, please check out the [Cryptohacker's Guide to Pixelated](/pixelated).
 
 Tech stack: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Flight.js](https://flightjs.github.io/) |
 [Python](https://www.python.org/) | [Twisted](https://twistedmatrix.com) | [Puppet](https://puppetlabs.com/)

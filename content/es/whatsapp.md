@@ -58,6 +58,6 @@ Dado que WhatsApp renunció a sus principios, es hora de cambiarse a Signal (Par
 
 Por supuesto, el único motivo para usar Signal (o WhatsApp) es para hablar con otras personas, así que si cree en el valor que Signal provee, es hora de convencer a sus amigos y familiares!
 
-*Publicado [originalmente](/post/whatsapp.html) por [Robin Doherty](https://robindoherty.com) y [Pam Rucinque](https://pamrucinque.com)*
+*Publicado [originalmente](/post/whatsapp) por [Robin Doherty](https://robindoherty.com) y [Pam Rucinque](https://pamrucinque.com)*
 
 *Traducido por [Pam Rucinque](https://pamrucinque.com)*
