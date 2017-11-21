@@ -3,11 +3,11 @@ date = "2017-11-20T11:10:00+10:00"
 draft = false
 title = "The Aaron Swartz Day Internet Freedom Hackathon v1.0"
 +++
-This weekend, ThoughtWorks, HFP, and the Australian Privacy Foundation hosted the first ever [Aaron Swartz Day Internet Freedom Hackathon](https://aaronswartzday.hackforprivacy.org) at the ThoughtWorks Brisbane office. 
+This weekend, ThoughtWorks, HFP, and the Australian Privacy Foundation hosted the first ever [Aaron Swartz Day Internet Freedom Hackathon](https://aaronswartzday.hackforprivacy.org) at the ThoughtWorks Brisbane office.
 
 Despite coinciding with the Global StartUp Weekend, 16 attendants persevered and presented on Sunday.
 
-Eight project ideas were pitched on Friday night and by the end of the day, five projects soldiered on all the way to the end. Some ideas earned the “Epic Failure” award, as they ended up abandoning their idea and merged into other teams. 
+Eight project ideas were pitched on Friday night and by the end of the day, five projects soldiered on all the way to the end. Some ideas earned the “Epic Failure” award, as they ended up abandoning their idea and merged into other teams.
 
 The five fantastic projects that made it to the final presentations were;
 
@@ -17,7 +17,7 @@ The five fantastic projects that made it to the final presentations were;
 - [Internet Freedom Launchpad](https://github.com/samuelhbne/vpn-launchpad): A cloud based dynamic and disposable VPN solution that gives you a new instance everytime you use it and stores no logs.
 - [Free Elbownia!](https://writer.inklestudios.com/stories/cdnz) by Crypto Anarchists: A privacy game where Agent Frankie F from Freedonia infiltrates Elbownia to extract information that will be used to destroy the "Great Elbownian Firewall". Agent Frankie F will have to overcome several internet privacy traps to succeed at his mission.
 
-The judges were suitably impressed with the quality and ambition of all of the projects. 
+The judges were suitably impressed with the quality and ambition of all of the projects.
 
 The Internet Freedom Launchpad won first place, with their working solution circumventing government censorship, and Decentralized U were the runner up. L33t Sp3ak 2.0 won the best technical demo of the evening.
 
@@ -36,7 +36,7 @@ Here are some photos from the event:
 
 Special massive thank you to all the people that helped make this possible, including:
 
- - Our two splendid speakers: Liam Pomfret and Dr Matthew Rimmer.
+ - Our two splendid speakers: [Liam Pomfret](https://www.linkedin.com/in/liampomfret/) and [Dr. Matthew Rimmer](https://twitter.com/DrRimmer).
  - Our four excellent judges: Monique Mann, Justin Clacherty, Glen Arrowsmith, and Katrina Donaghy.
  - Thomas Miller, Justin Clacherty, Brian Reaves, Clayton Nyakana, Eru Penkman, Robin Doherty, Harsh Pandya, Tim Smith, Jacob Olsen, Julian Scharf, Kizito Katawonga, Larene Le Gassick, Tony Smith, Nic Smythe, John Geddes, Fiona Byarugaba, and Tegan Scates.
 
