@@ -4,9 +4,10 @@
 
 The website at [hackforprivacy.org](https://hackforprivacy.org).
 
-Run the site locally in watch mode:
+To run the site locally in watch mode:
 
-    auto/start
+1. Install [Docker](https://www.docker.com/community-edition).
+2. run `auto/start`
 
 
 
