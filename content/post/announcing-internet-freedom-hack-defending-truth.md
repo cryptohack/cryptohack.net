@@ -4,6 +4,8 @@ draft = false
 title = "Announcing Internet Freedom Hack: Defending Truth"
 +++
 
+<img src="/images/defending-truth-shield-on-blue.jpg" style="max-width:400px; margin-left:auto; margin-right:auto; display:block;" />
+
 [Internet Freedom Hack](https://internetfreedomhack.org) is a community event for technologists with a passion for digital rights. We'll get together for a weekend to build things that advance the cause of internet freedom. 
 
 We're announcing the next Internet Freedom Hack. It will run in Brisbane on 20th-22nd April 2018 and, for the first time, simultaneously in Melbourne on 20th-21st April 2018.
