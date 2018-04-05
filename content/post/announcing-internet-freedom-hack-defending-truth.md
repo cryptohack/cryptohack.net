@@ -1,6 +1,6 @@
 +++
 date = "2018-03-22T10:00:00+10:00"
-draft = true
+draft = false
 title = "Announcing Internet Freedom Hack: Defending Truth"
 +++
 
