@@ -12,6 +12,7 @@ params:
   meetup: https://www.meetup.com/hack-for-privacy/
   slackjoin: https://cryptohack.herokuapp.com
   slack: https://hackforprivacy.slack.com
+  keybase: https://keybase.io/team/hfp.community
   rss: https://hackforprivacy.org/index.xml
 
 menu:
