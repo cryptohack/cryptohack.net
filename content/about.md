@@ -39,6 +39,13 @@ Why am I here? It was the [Australian metadata retention law](http://www.smh.com
 <img src="/images/robin.jpg"  class="profile-pic" />
 Robin is a software developer and co-founder of Hack for Privacy. After observing the disregard for users’ security prevalent throughout the software industry, and the lack of respect for privacy across society as a whole, his despair was turned to action by Snowden’s revelations of 2013. He believes that the software industry is culpable in the demise of privacy, most people are in denial about their own role in mass surveillance, and now is the time to fix our attitudes. He attempts to demystify and promote privacy by facilitating cryptoparties, making noise on the internet, and organising Hack for Privacy.
 
+<div class="space"></div>
+
+### Effy Elden
+
+<img src="/images/effy.jpg"  class="profile-pic" />
+Effy Elden is a 23-year-old non-binary software developer. As an avid technologist and a proud trans girl, they passionately pursue endeavours related to digital privacy and queer activism. Effy spends their spare time working to create safe & cohesive globally-connected online communities through projects such as Mastodon, advocating for digital privacy, and furthering progressive politics through their involvement with The Greens.
+
 <br/>
 
 ## Where did Hack for Privacy start?
