@@ -55,13 +55,13 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
   *Password: vagrant*
 
 0. Create an account on the development platform:
-    - Ask for an invitation on [Slack: #general](https://cryptohack.slack.com/messages/general)<br/>
+    - Ask for an invitation on [Keybase](https://keybase.io/team/hfp.community)<br/>
     *@robin @cam, @pamrucinque or @akjones will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
 0. Ensure your terminal prompt inside the vagrant machine shows the virtualenv, like so: `(user-agent-venv)vagrant@leap-jessie:~$`. If instead you only see  `vagrant@leap-jessie:~$`, please log out of the vagrant box, ensure `vagrant up` returned to your prompt, and log in again.
- 
+
 0. Run the user agent: <br/>
     `pixelated-user-agent --host 0.0.0.0`
 
@@ -78,7 +78,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
     _After 20-30 seconds, if the user agent starts up successfully, you will see this line in the output:_ `Done, the user agent is ready to be used`.
 
     To save yourself some typing if you want to restart the agent, create a config file with the following contents in the vagrant machine's home directory:
-      
+
     ```ini
     [pixelated]
     leap_server_name = dev.pixelated-project.org
@@ -100,7 +100,7 @@ Your address is &lt;username&gt;@dev.pixelated-project.org. You should be able t
 
 # Okay, now what?
 
-Choose an issue from those [labelled "Hacknight" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AHacknight+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it.
+Choose an issue from those [labelled "Hacknight" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AHacknight+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Keybase that you are working on it.
 
 If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
@@ -109,7 +109,7 @@ Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
 
-You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#general on Slack](https://cryptohack.slack.com/messages/general/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
+You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [Keyybase](https://keybase.io/team/hfp.community).
 
 -------------------------------------------------------------------------------------------
 # Common issues

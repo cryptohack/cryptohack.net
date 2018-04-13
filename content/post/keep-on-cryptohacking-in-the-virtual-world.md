@@ -9,7 +9,7 @@ We're pleased to announce that we're locking in a regular monthly timeslot for o
 
 Hopefully you've seen our virtual hack nights [some time](announcing-10th-feb-virtual-hack-night.html) [in the last few months](announcing-2nd-march-virtual-hack-night.html). We've invited Cryptohackers, and folks who are new to our community to come together in the same virtual place and get stuff done. It is a format we've been experimenting with, so we can include as many Cryptohackers as possible to share skills and knowledge, and contribute to open source projects like [Pixelated](https://pixelated-project.org).
 
-This time will be a little different. With these new regular events, we want to create more of a virtual co-working space, where people can work on whatever privacy stuff they're interested in right now, and share ideas. 
+This time will be a little different. With these new regular events, we want to create more of a virtual co-working space, where people can work on whatever privacy stuff they're interested in right now, and share ideas.
 
 <p class="center">
 <a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/230455569/"><strong>RSVP</strong></a>
@@ -32,8 +32,7 @@ If you are keen to contribute to the privacy movement, but don't have something 
 <a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/230455569/"><strong>RSVP</strong></a>
 </p>
 
-Join us: https://cryptohack.herokuapp.com<br />
-Sign in: https://cryptohack.slack.com/messages/virtual-coworking
+Join us: https://keybase.io/team/hfp.community
 
 
 *Posted by [Andrew](https://twitter.com/whereismytaco)*
