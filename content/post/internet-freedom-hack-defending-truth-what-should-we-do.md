@@ -42,7 +42,7 @@ For some of them we have captured who came up with the idea – please feel free
 
 - Visualise where the noise in Twitter for a specific topic is coming from (geographically or demographically). 
 
-- Something like securemessagingapps.com but for VPNs, or for other privacy tools. Or improve existing projects like privacytools.io or cybersecureyourself.net. (Talk to Pam)
+- Something like [securemessagingapps.com](https://securemessagingapps.com) but for VPNs, or for other privacy tools. Or improve existing projects like [privacytools.io](https://privacytools.io) or [cybersecureyourself.net](https://cybersecureyourself.net). (Talk to Pam)
 
 - A video-, text-, board-, or card game to teach basic cyber security to victimised demographics (e.g. elderly, children, or domestic abuse victims). 
 
