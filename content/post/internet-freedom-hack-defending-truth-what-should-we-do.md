@@ -32,7 +32,7 @@ For some of them we have captured who came up with the idea – please feel free
 
 ## Tech skills optional
 
-- IsCentrelinkDown is a tool that checks the availability of Centrelink phone lines. It was created to debunk the claims of availability that are frequently made by the Department of Human Services. This tool could be extended, or we could build a totally new tool to debunk other false claims, or to answer questions like “how long does it take to get hold of someone at the ATO?” 
+- [IsCentrelinkDown](https://github.com/p0sty/CentrelinkDown) is a tool that checks the availability of Centrelink phone lines. It was created to debunk the claims of availability that are frequently made by the Department of Human Services. The source code has been opened up just in time for the Hack! This tool could be extended, or we could build a totally new tool to debunk other false claims, or to answer questions like “how long does it take to get hold of someone at the ATO?” 
 
 - GDPR requires corporations to publish a list of who they share data with. We could harvest and visualise this data, to try to uncover some of the data dealing that’s going on.
 
