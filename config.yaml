@@ -22,7 +22,3 @@ menu:
         Weight: -110
         Identifier: "about"
         URL: "/about"
-      - Name: "Contribute"
-        Pre: "<i class='fa fa-road'></i>"
-        Weight: -100
-        URL: "/contribute"
