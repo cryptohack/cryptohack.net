@@ -19,10 +19,10 @@ There is a public consultation, which is open for submissions till 10th Septembe
 
 We are encouraging Hack for Privacy followers to make individual submissions from technologists' perspectives. As we stated when we began organising Hack for Privacy, there is a key voice missing in the privacy debate – technologists – so please join us in making personal submissions to the consultation. We've come a long way since the metadata retention "debate" and we want this one to be a lot more robust!
 
-Digital Rights Watch has a handy [template and form](https://digitalrightswatch.org.au/2018/08/19/defend-encryption/) you can use to make your submission.
+Digital Rights Watch has a handy [template and form](https://digitalrightswatch.org.au/2018/08/19/defend-encryption/) you can use to make your submission. You can also make a submission directly by email to [assistancebill.consultation@homeaffairs.gov.au](mailto:assistancebill.consultation@homeaffairs.gov.au).
 
 <p class="center">
-<a class="button" href="https://digitalrightswatch.org.au/2018/08/19/defend-encryption/"><strong>Make a submission</strong></a>
+<a class="button" href="https://digitalrightswatch.org.au/2018/08/19/defend-encryption/"><strong>Make a submission by 10th September</strong></a>
 </p>
 
 
