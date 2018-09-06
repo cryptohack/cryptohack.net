@@ -2,10 +2,10 @@
 author = "robin"
 date = "2018-09-06T12:31:00+10:00"
 draft = false
-title = "What the Access and Assistance Bill is and what we are going to do about it – Defend Encryption."
+title = "What the Assistance and Access Bill is and what we are going to do about it – Defend Encryption."
 +++
 
-## What the Access and Assistance Bill is
+## What the Assistance and Access Bill is
 
 It allows law enforcement and intelligence agencies in Australia to force organisations and individual technologists to provide access to encrypted data and communications, and punish them with fines or imprisonment if they won't do it, or if they talk about it.
 
