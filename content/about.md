@@ -44,7 +44,7 @@ Robin is a software developer and co-founder of Hack for Privacy. After observin
 ### Effy Elden
 
 <img src="/images/effy.jpg"  class="profile-pic" />
-Effy Elden is a 23-year-old non-binary software developer. As an avid technologist and a proud trans girl, they passionately pursue endeavours related to digital privacy and queer activism. Effy spends their spare time working to create safe & cohesive globally-connected online communities through projects such as Mastodon, advocating for digital privacy, and furthering progressive politics through their involvement with The Greens.
+Effy Elden is a 24-year-old non-binary software developer. As an avid technologist and queer troublemaker, they passionately pursue endeavours related to digital privacy and queer activism. Effy spends their spare time working to create safe & cohesive globally-connected online communities through projects such as Mastodon, advocating for digital privacy, and furthering progressive politics through their involvement with The Greens.
 
 <br/>
 
